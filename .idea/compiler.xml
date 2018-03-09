@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AtmApplication" />
         <module name="modular-atm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="AtmApplication" target="1.8" />
       <module name="modular-atm" target="1.8" />
     </bytecodeTargetLevel>
   </component>
