@@ -1,0 +1,112 @@
+[INFO ] 2018-01-17 00:03:01.546 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:03:01.548 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:03:10.283 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:03:10.284 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:03:10.356 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:03:10.356 [main] AtmLauncher - Displaying operation available for account: 01001
+[DEBUG] 2018-01-17 00:03:29.999 [main] AccountServiceImpl - Checking balance for account with number 01001
+[DEBUG] 2018-01-17 00:03:30.000 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:03:30.002 [main] AtmServiceImpl - Getting cash from ATM for the amount 30
+[DEBUG] 2018-01-17 00:03:30.002 [main] AtmDaoImpl - Retrieving amount from ATM
+[DEBUG] 2018-01-17 00:03:30.002 [main] AtmDaoImpl - Reading data from ATM json
+[DEBUG] 2018-01-17 00:03:30.072 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:03:30.072 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:03:30.072 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:03:30.072 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:03:30.072 [main] AccountServiceImpl - Withdrawing £30 for account with number 01001
+[DEBUG] 2018-01-17 00:03:30.073 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:03:30.120 [main] AccountDaoImpl - Balance after withdrawal is 2708.59
+[DEBUG] 2018-01-17 00:03:30.120 [main] AtmDaoImpl - Updating balance in ATM after withdrawal
+[DEBUG] 2018-01-17 00:03:30.120 [main] AtmDaoImpl - Writing data to json for ATM
+[INFO ] 2018-01-17 00:03:30.123 [main] AtmLauncher - Displaying operation available for account: 01001
+[INFO ] 2018-01-17 00:05:49.221 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:05:49.224 [main] AtmLauncher - Displaying main menu
+[INFO ] 2018-01-17 00:06:17.598 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:06:17.599 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:06:25.749 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:06:25.749 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:06:25.804 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:06:25.804 [main] AtmLauncher - Displaying operation available for account: 01001
+[DEBUG] 2018-01-17 00:06:29.291 [main] AccountServiceImpl - Checking balance for account with number 01001
+[DEBUG] 2018-01-17 00:06:29.292 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:06:29.294 [main] AtmServiceImpl - Getting cash from ATM for the amount 30
+[DEBUG] 2018-01-17 00:06:29.295 [main] AtmDaoImpl - Retrieving amount from ATM
+[DEBUG] 2018-01-17 00:06:29.295 [main] AtmDaoImpl - Reading data from ATM json
+[INFO ] 2018-01-17 00:06:29.300 [main] AtmLauncher - Displaying operation available for account: 01001
+[INFO ] 2018-01-17 00:12:43.080 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:12:43.114 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:12:46.402 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:12:46.403 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:12:46.479 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:12:46.480 [main] AtmLauncher - Displaying operation available for account: 01001
+[DEBUG] 2018-01-17 00:13:03.950 [main] AccountServiceImpl - Checking balance for account with number 01001
+[DEBUG] 2018-01-17 00:13:03.950 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:13:03.952 [main] AtmServiceImpl - Getting cash from ATM for the amount 30
+[DEBUG] 2018-01-17 00:13:03.952 [main] AtmDaoImpl - Retrieving amount from ATM
+[DEBUG] 2018-01-17 00:13:03.953 [main] AtmDaoImpl - Reading data from ATM json
+[DEBUG] 2018-01-17 00:15:52.478 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:15:52.485 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:15:52.486 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:15:52.487 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:15:52.487 [main] AccountServiceImpl - Withdrawing £30 for account with number 01001
+[DEBUG] 2018-01-17 00:15:52.487 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:15:52.557 [main] AccountDaoImpl - Balance after withdrawal is 2708.59
+[DEBUG] 2018-01-17 00:15:52.558 [main] AtmDaoImpl - Updating balance in ATM after withdrawal
+[DEBUG] 2018-01-17 00:15:52.558 [main] AtmDaoImpl - Writing data to json for ATM
+[INFO ] 2018-01-17 00:15:52.562 [main] AtmLauncher - Displaying operation available for account: 01001
+[INFO ] 2018-01-17 00:18:36.047 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:18:36.072 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:18:39.671 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:18:39.671 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:18:39.742 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:18:39.742 [main] AtmLauncher - Displaying operation available for account: 01001
+[INFO ] 2018-01-17 00:19:04.258 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:19:04.268 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:19:06.727 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:19:06.727 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:19:06.796 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:19:06.797 [main] AtmLauncher - Displaying operation available for account: 01001
+[DEBUG] 2018-01-17 00:19:15.849 [main] AccountServiceImpl - Checking balance for account with number 01001
+[DEBUG] 2018-01-17 00:19:15.850 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:19:15.852 [main] AtmServiceImpl - Getting cash from ATM for the amount 30
+[DEBUG] 2018-01-17 00:19:15.852 [main] AtmDaoImpl - Retrieving amount from ATM
+[DEBUG] 2018-01-17 00:19:15.853 [main] AtmDaoImpl - Reading data from ATM json
+[DEBUG] 2018-01-17 00:19:31.555 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:19:31.555 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:19:31.555 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:19:31.555 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:19:31.555 [main] AccountServiceImpl - Withdrawing £30 for account with number 01001
+[DEBUG] 2018-01-17 00:19:31.556 [main] AccountDaoImpl - Reading from Account json file
+[INFO ] 2018-01-17 00:19:53.607 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:19:53.633 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:19:57.376 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:19:57.377 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:19:57.460 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:19:57.460 [main] AtmLauncher - Displaying operation available for account: 01001
+[DEBUG] 2018-01-17 00:20:02.221 [main] AccountServiceImpl - Checking balance for account with number 01001
+[DEBUG] 2018-01-17 00:20:02.221 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:20:02.225 [main] AtmServiceImpl - Getting cash from ATM for the amount 30
+[DEBUG] 2018-01-17 00:20:02.225 [main] AtmDaoImpl - Retrieving amount from ATM
+[DEBUG] 2018-01-17 00:20:02.225 [main] AtmDaoImpl - Reading data from ATM json
+[INFO ] 2018-01-17 00:21:29.650 [main] AtmLauncher - Displaying operation available for account: 01001
+[INFO ] 2018-01-17 00:23:04.297 [main] AtmLauncher - Starting ATM application
+[INFO ] 2018-01-17 00:23:04.301 [main] AtmLauncher - Displaying main menu
+[DEBUG] 2018-01-17 00:23:10.213 [main] AccountServiceImpl - Checking if account number 01001 exists
+[DEBUG] 2018-01-17 00:23:10.214 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:23:10.272 [main] AccountDaoImpl - Account exists!
+[INFO ] 2018-01-17 00:23:10.272 [main] AtmLauncher - Displaying operation available for account: 01001
+[DEBUG] 2018-01-17 00:23:14.390 [main] AccountServiceImpl - Checking balance for account with number 01001
+[DEBUG] 2018-01-17 00:23:14.390 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:23:14.393 [main] AtmServiceImpl - Getting cash from ATM for the amount 30
+[DEBUG] 2018-01-17 00:23:14.394 [main] AtmDaoImpl - Retrieving amount from ATM
+[DEBUG] 2018-01-17 00:23:14.394 [main] AtmDaoImpl - Reading data from ATM json
+[DEBUG] 2018-01-17 00:23:14.476 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:23:14.477 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:23:14.477 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:23:14.477 [main] AtmServiceImpl - Building return message
+[DEBUG] 2018-01-17 00:23:14.477 [main] AccountServiceImpl - Withdrawing £30 for account with number 01001
+[DEBUG] 2018-01-17 00:23:14.477 [main] AccountDaoImpl - Reading from Account json file
+[DEBUG] 2018-01-17 00:23:14.516 [main] AccountDaoImpl - Balance after withdrawal is 2708.59
+[DEBUG] 2018-01-17 00:23:14.516 [main] AtmDaoImpl - Updating balance in ATM after withdrawal
+[DEBUG] 2018-01-17 00:23:14.517 [main] AtmDaoImpl - Writing data to json for ATM
+[INFO ] 2018-01-17 00:23:14.520 [main] AtmLauncher - Displaying operation available for account: 01001
